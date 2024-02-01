@@ -3,6 +3,7 @@
  # Resume Screening Tool
 
 Welcome to the Resume Screening Tool - a powerful utility to assist with the process of shortlisting resumes based on job descriptions and criteria. This tool leverages state-of-the-art NLP models and Pinecone vector storage to help HR professionals streamline their candidate selection process.
+![image](https://github.com/aryan4codes/Resume-Shortlisting-Tool/assets/122562400/944c8325-416a-4ad0-9fa9-91962eb0c21f)
 
 ## Table of Contents
 
